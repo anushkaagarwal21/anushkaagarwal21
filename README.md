@@ -16,7 +16,8 @@ Alongside research, I enjoy expanding my knowledge in **Bayesian inference** and
 **Radio Astronomy Tools** : CASA, WSClean   
 **Astronomical Simulations** : N-body, ReionYuga, FoF Halo Finder, Kelvin-Helmholtz Instability  
 **Data Reduction Pipelines** : GARUDA, SPAM  
-**Operating Systems & Documentation** : Linux, Windows, LaTeX, MS Office
+**Operating Systems & Documentation** : Linux, Windows, LaTeX, MS Office  
+**Soft Skills** : Scientific Writing, Public Speaking, Research Presentation, Attention to Detail  
 <!-- **Data Science Skills** : Data Cleaning, Data Visualization, Data Analysis --> 
 
 ## Achievements
