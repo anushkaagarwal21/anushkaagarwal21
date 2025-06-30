@@ -20,6 +20,6 @@ Alongside research, I enjoy expanding my knowledge in **Bayesian inference** and
 <!-- **Data Science Skills** : Data Cleaning, Data Visualization, Data Analysis --> 
 
 ## Achievements
-**AIR 317 in IIT JAM Physics (2023) and joined M.Sc. Astronomy in IIT Indore**  
+**AIR 317 in IIT JAM Physics (2023) and joined M.Sc. Astronomy at IIT Indore**  
 **AIR 331 in JEST (2023)**  
 **Received Merit-cum-Means Scholarship from IIT Indore**
