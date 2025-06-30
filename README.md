@@ -13,11 +13,11 @@ Alongside research, I enjoy expanding my knowledge in **Bayesian inference** and
 
 ## Skills
 **Programming & Libraries** : Python (NumPy, SciPy, Matplotlib, Astropy, Pandas, Statsmodels)  
-**Radio Astronomy Tools** : CASA, WSClean  
-<!-- **Data Science Skills** : Data Cleaning, Data Visualization, Data Analysis -->  
+**Radio Astronomy Tools** : CASA, WSClean   
 **Astronomical Simulations** : N-body, ReionYuga, FoF Halo Finder, Kelvin-Helmholtz Instability  
 **Data Reduction Pipelines** : GARUDA, SPAM  
 **Operating Systems & Documentation** : Linux, Windows, LaTeX, MS Office
+<!-- **Data Science Skills** : Data Cleaning, Data Visualization, Data Analysis --> 
 
 ## Achievements
 **AIR 317 in IIT JAM Physics (2023) and joined M.Sc. Astronomy in IIT Indore**  
