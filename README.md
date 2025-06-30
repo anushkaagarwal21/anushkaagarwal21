@@ -9,4 +9,17 @@ Alongside research, I enjoy expanding my knowledge in **Bayesian inference** and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkaiit)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?logo=kaggle&logoColor=white)](https://www.kaggle.com/anushkaagarwal04)
 <!-- [![Website](https://img.shields.io/badge/Website-000?logo=Google-chrome&logoColor=white)](https://yourwebsite.com) -->
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalanushka453@gmail.com)
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalanushka453@gmail.com) -->
+
+## Skills
+**Programming & Libraries** : Python (NumPy, SciPy, Matplotlib, Astropy, Pandas, Statsmodels)
+**Radio Astronomy Tools** : CASA, WSClean
+<!-- **Data Science Skills** : Data Cleaning, Data Visualization, Data Analysis -->
+**Astronomical Simulations** : N-body, ReionYuga, FoF Halo Finder, Kelvin-Helmholtz Instability
+**Data Reduction Pipelines** : GARUDA, SPAM
+**Operating Systems & Documentation** : Linux, Windows, LaTeX, MS Office
+
+## Achievements
+**AIR 317 in IIT JAM Physics (2023) and joined M.Sc. Astronomy in IIT Indore**
+**AIR 331 in JEST (2023)**
+**Received Merit-cum-Means Scholarship from IIT Indore**
