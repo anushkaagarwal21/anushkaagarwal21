@@ -1,3 +1,5 @@
+![Banner](./STScI-01EVT1GSB1BNPGCBJ96QJRM48N.png)
+
 ## About Me
 I recently completed my Master’s in Astronomy at IIT Indore, where my research focused on **high-resolution HI 21-cm absorption studies** of the **multiphase interstellar medium** using large radio datasets. My work combined **observational astronomy**, **data analysis**, and **statistical modeling** to study galaxy evolution through neutral hydrogen.
 
