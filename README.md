@@ -9,7 +9,7 @@ Alongside research, I enjoy expanding my knowledge in **Bayesian inference** and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkaiit)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?logo=kaggle&logoColor=white)](https://www.kaggle.com/anushkaagarwal04)
 <!-- [![Website](https://img.shields.io/badge/Website-000?logo=Google-chrome&logoColor=white)](https://yourwebsite.com) -->
-<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalanushka453@gmail.com) -->  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalanushka453@gmail.com)
 
 ## Skills
 **Programming & Libraries** : Python (NumPy, SciPy, Matplotlib, Astropy, Pandas, Statsmodels)  
